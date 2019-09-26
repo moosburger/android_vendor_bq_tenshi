@@ -531,4 +531,5 @@ PRODUCT_PACKAGES += \
     dpmserviceapp \
     qcrilmsgtunnel \
     colorservice \
-    qcrilhook
+    qcrilhook \
+    BqCamera
